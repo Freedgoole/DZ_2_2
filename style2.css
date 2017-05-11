@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	padding:0;
+}
+.conteiner{
+	background: #D6D7BE;
+	width: 450px;
+	padding: 10px 0 30px 5px;
+	line-height: 40px;
+}
+h1 {
+	color: #532601;
+}
+h3 {
+  	color: #875327;
+}
+a {
+	color: #875327;
+}
